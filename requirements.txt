@@ -1,0 +1,7 @@
+tensorflow>=2.11  # Or the version you are using
+flask
+Pillow
+numpy
+matplotlib
+scikit-learn  # Added scikit-learn
+Werkzeug # Added Werkzeug
